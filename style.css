@@ -1,0 +1,36 @@
+body {
+  max-width: fit-content;
+  margin: 0 auto;
+  padding: 50px 60px;
+  border: solid;
+}
+h1 {
+  font-family: sans-serif;
+}
+h2 {
+  position: relative;
+  left: 0;
+  top: 10px;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+p {
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.weather {
+  font-weight: 500;
+  margin: 0 auto;
+  padding: 70px 100px;
+  border: solid;
+}
+.btn {
+    position:relative: right;
+
+  }
